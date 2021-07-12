@@ -1,0 +1,16 @@
+body{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+.listRoot{
+display: flex;
+flex-direction: column;
+text-align: center;
+justify-content: center;
+}
+.ulRoot{
+	padding: 0;
+	list-style: none;
+	
+}
